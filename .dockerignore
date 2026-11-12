@@ -8,3 +8,6 @@ Dockerfile
 npm-debug.log
 .env
 .env.*
+!.env.example
+npm-debug.log*
+README.md
